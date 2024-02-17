@@ -1,0 +1,19 @@
+.csssforplaceholder::placeholder{
+    font-size: 25px;
+    padding: 10px;
+    letter-spacing: 2px;
+
+}
+.csssforplaceholder{
+    font-size: 25px;
+    padding: 10px;
+    letter-spacing: 2px;
+    border: 1px solid rgb(201, 198, 198);
+}
+.cssfornavbarpadding {
+    margin-left: 30px;
+
+}
+.navbar .cssfornavbarpadding .dropdown-toggle1::after {
+    display: none; /* Hide the arrow */
+}
